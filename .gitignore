@@ -1,0 +1,26 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraform.lock.hcl
+# AWS credentials
+*.pem
+*.key
+
+# .DS_Store for macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Ignore local .terraform directories
+.terraform/
+
+# Ignore sensitive files
+.env
+secrets.yaml
