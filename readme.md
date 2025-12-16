@@ -18,7 +18,7 @@ This project contains Terraform configurations to deploy and manage an Amazon El
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/DevOpsNinja-sg/terraform-aws-eks.git
     cd terraform-aws-eks
     ```
 
